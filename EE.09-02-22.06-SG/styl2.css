@@ -1,0 +1,51 @@
+.container{
+    font-family: Helvetica, sans-serif;
+    background-color: Linen;
+    color: #222;
+    margin: auto;
+    width: 90%;
+}
+
+.banery{display: flex;}
+.baner1, .baner2{
+    background-color: black;
+    color: white;
+    width: 50%;
+    height: 100px;
+}
+
+.main{
+    padding: 20px;
+}
+
+.footer{
+    background-color: black;
+    color: white;
+    padding: 20px;
+    text-align: center;
+}
+
+table{
+    margin: 40px;
+}
+
+td{
+    padding: 30px;
+    text-align: center;
+    font-weight: bold;
+}
+
+a{
+    color: #aaa;
+    text-decoration: none;
+}
+
+a:hover{
+    color: white;
+}
+li{
+	display: inline-block;
+	padding: 5px;
+	margin: 10px;
+	text-decoration: underline 1px white;  
+}
